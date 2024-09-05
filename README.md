@@ -1,4 +1,6 @@
 SekretSauce Test Automation Project
+
+
 Description
 This project is a test automation solution designed for a website created for testing purposes. It was developed as part of a final project to demonstrate skills in test automation.
 
