@@ -1,0 +1,43 @@
+{
+  "urls": {
+    "login": "https://www.saucedemo.com/",
+    "inventory": "https://www.saucedemo.com/inventory.html",
+    "cart": "https://www.saucedemo.com/cart.html",
+    "checkout_step_one": "https://www.saucedemo.com/checkout-step-one.html",
+    "checkout_step_two": "https://www.saucedemo.com/checkout-step-two.html",
+    "checkout_complete": "https://www.saucedemo.com/checkout-complete.html"
+  },
+  "users": [
+    {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "performance_glitch_user",
+      "password": "secret_sauce"
+    }
+  ],
+  "error_messages": {
+    "login": {
+      "username_required": "Epic sadface: Username is required",
+      "password_required": "Epic sadface: Password is required",
+      "locked_out_user": "Epic sadface: Sorry, this user has been locked out."
+    },
+    "cart": {
+      "item_not_added": "Epic sadface: You cannot proceed to checkout without adding any item to the cart"
+    },
+    "checkout": {
+      "first_name_required": "Error: First Name is required",
+      "last_name_required": "Error: Last Name is required",
+      "postal_code_required": "Error: Postal Code is required"
+    }
+  }
+}

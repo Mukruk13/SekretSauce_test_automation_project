@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c18d25a5-4254-4c0f-8737-d788cc16df80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SekretSauce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/checkout_complete_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/checkout_confirmation_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/checkout_overview_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/your_cart_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_base/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_base/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_base/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_base/sekret_sauce_test_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_1_login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_2_product_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_3_your_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_4_checkout_confirmation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_5_checkout_overview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_6_checkout_complete.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2i4UNomKx4POhutqSnvuwXAHAGG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for maping_errors_with_users.MapErrorMessages.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for maping_errors_with_users.MapErrorMessages.test_map_error_messages.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_1_login_page.TestLoginPage.test_navigate_to_login_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_4_checkout_confirmation.TestCheckoutConfirmation.test_checkout_confirmation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_4_checkout_confirmation.TestCheckoutConfirmation.test_checkout_confirmation_with_empty_fields.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_checkout_complete.TestCheckoutComplete.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_checkout_complete.TestCheckoutComplete.test_back_to_home.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_checkout_confirmation.TestCheckoutConfirmation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_checkout_confirmation.TestCheckoutConfirmation.test_checkout_confirmation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_checkout_confirmation.TestCheckoutConfirmation.test_checkout_confirmation_with_empty_fields.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_checkout_confirmation.TestCheckoutConfirmation.test_fill_information.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_checkout_overview.TestCheckoutOverview.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_checkout_overview.TestCheckoutOverview.test_checkout_overview.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_checkout_overview.TestCheckoutOverview.test_finish_order.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.TestLoginPage.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.TestLoginPage.test_invalid_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.TestLoginPage.test_locked_out_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.TestLoginPage.test_login_users.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.TestLoginPage.test_navigate_to_login_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.TestLoginPage.test_navigate_to_product_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.TestLoginPage.test_valid_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product_page.TestProductPage.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product_page.TestProductPage.test_add_and_remove_random_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product_page.TestProductPage.test_navigate_to_cart_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_your_cart.TestYourCartPage.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_your_cart.TestYourCartPage.test_proceed_to_checkout.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_your_cart.TestYourCartPage.test_remove_product_from_cart.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_1_login_page.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_4_checkout_confirmation.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_checkout_complete.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_checkout_confirmation.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_checkout_overview.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_login_page.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_product_page.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_your_cart.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checkout_complete_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checkout_confirmation_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checkout_overview_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python.login_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python.product_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_checkout_complete.executor&quot;: &quot;Run&quot;,
+    &quot;Python.your_cart_page.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kasia/PycharmProjects/SekretSauce/tests&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kasia\PycharmProjects\SekretSauce\tests" />
+      <recent name="C:\Users\Kasia\PycharmProjects\SekretSauce\pages" />
+      <recent name="C:\Users\Kasia\PycharmProjects\SekretSauce\test_base" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kasia\PycharmProjects\SekretSauce\test_base" />
+      <recent name="C:\Users\Kasia\PycharmProjects\SekretSauce\pages" />
+      <recent name="C:\Users\Kasia\PycharmProjects\SekretSauce\tests" />
+      <recent name="C:\Users\Kasia\PycharmProjects\SekretSauce" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in tests">
+    <configuration name="Python tests for test_1_login_page.TestLoginPage.test_navigate_to_login_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SekretSauce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_1_login_page.TestLoginPage.test_navigate_to_login_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_4_checkout_confirmation.TestCheckoutConfirmation.test_checkout_confirmation_with_empty_fields" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SekretSauce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_4_checkout_confirmation.TestCheckoutConfirmation.test_checkout_confirmation_with_empty_fields&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_1_login_page.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SekretSauce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_1_login_page.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_4_checkout_confirmation.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SekretSauce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_4_checkout_confirmation.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in tests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SekretSauce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in tests" />
+        <item itemvalue="Python tests.Python tests in test_1_login_page.py" />
+        <item itemvalue="Python tests.Python tests for test_1_login_page.TestLoginPage.test_navigate_to_login_page" />
+        <item itemvalue="Python tests.Python tests for test_4_checkout_confirmation.TestCheckoutConfirmation.test_checkout_confirmation_with_empty_fields" />
+        <item itemvalue="Python tests.Python tests in test_4_checkout_confirmation.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c18d25a5-4254-4c0f-8737-d788cc16df80" name="Changes" comment="" />
+      <created>1718749305377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718749305377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_5_checkout_overview.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pages/login_page.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pages/checkout_overview_page.py</url>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pages/checkout_complete_page.py</url>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pages/your_cart_page.py</url>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_6_checkout_complete.py</url>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_1_login_page.py</url>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
