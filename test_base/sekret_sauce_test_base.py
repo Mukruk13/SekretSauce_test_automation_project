@@ -18,7 +18,7 @@ class BaseTest(unittest.TestCase):
         cls.config = load_config()
         options = webdriver.ChromeOptions()
 
-        # Ścieżka do pliku chromedriver jest pobierana ze zmiennej środowiskowej
+
         chrome_driver_path = os.getenv('CHROME_DRIVER_PATH')
         if chrome_driver_path:
             cls.driver = webdriver.Chrome(service=ChromeService(chrome_driver_path), options=options)
